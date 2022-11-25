@@ -1,6 +1,9 @@
 # gcr-docker-nginx-vite-vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+* This was scaffolded from `npm create vite` with Vue and TypeScript. A barebones config is added for Google Cloud Run container deployment using `Dockerfile` and `nginx.conf` configuration.
+* Usual boilerplate below.
+
+This template should help get you started developing with Vue 3 in Vite. *Using Docker image and served by nginx.*
 
 ## Recommended IDE Setup
 
